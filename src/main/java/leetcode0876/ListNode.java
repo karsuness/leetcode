@@ -1,4 +1,4 @@
-package leetcode19;
+package leetcode0876;
 
 /**
  * @author wangjinxin
